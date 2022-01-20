@@ -1,0 +1,321 @@
+﻿Sentence,Tag
+Chief complaint atypical chest pain.,Chief Complaint
+History the patient is a 74-year-old Caucasian female patient of the physician who presented to the emergency room with atypical chest pain {period},Client Details
+"She saw her hand orthopedist, the physician because of right wrist pain and was given meloxicam on the MM, DD {period}",Medical History
+"She also is aware of having hiatal hernia and having GERD, which was controlled on ranitidine {period}",Medical History
+She started taking meloxicam five days ago and had taken once daily for the past five days and had been experiencing this discomfort on her lower sternum that she described it like tightness and this had prompted her to come to the emergency room {period},Medical History
+Her workup showed slightly elevated troponin of 0.45 and EKG showing nonspecific ST wave changes {period},Chief Complaint
+"She is comfortable resting in the gurney, but due to the slightly elevated troponin that she is being admitted for to rule out possibility of having acute coronary syndrome.",Chief Complaint
+"Past medical history is significant for having one episode of high blood pressure most likely due to stress after having ERCP, but not on any medication.",Medical History
+History of ulcerative colitis.,Medical History
+History of osteoarthritis and osteoporosis.,Medical History
+History of melanoma and basal cell cancer. ,Medical History
+History of hypercholesterolemia.,Medical History
+History of breast cancer.,Medical History
+History of sleep apnea.,Medical History
+"Past surgical history is status post laparoscopic cholecystectomy, status post parathyroidectomy, status post cataract surgery, status post bilateral knee arthroscopic surgery, status post total knee replacement, status post abdominal hysterectomy, status post mastectomy, status post lower back surgery.",Medical History
+Social history she had been married and living with her husband and a known smoker.,Social History
+Denies drinking any alcohol.,Social History
+Allergies she is unable to tolerate statin and penicillin and Diovan.,Medical History
+"List of medications includes Prozac 20 mg once daily, meloxicam 15 mg once daily, Zantac 150 mg twice daily and Ambien 10 mg at bedtime and Norco 7.5/325 mg as needed.",Medical History
+"Physical exam, she is awake, alert, comfortable, resting in the gurney, in no cardiorespiratory distress.",Current Condition
+"Blood pressure 150/70, heart rate in the 60s, respirations 18.",Current Condition
+HEENT anicteric sclerae.,Current Condition
+Pink conjunctivae.,Current Condition
+Clear nasal cavity and oropharynx.,Current Condition
+Neck is supple.,Current Condition
+No mass.,Current Condition
+Lungs sound clear to auscultation bilateral with unlabored breathing.,Current Condition
+Heart sound regular rhythm.,Current Condition
+No murmur.,Current Condition
+Extremity no edema.,Current Condition
+No cyanosis.,Current Condition
+Labs showed troponin of 0.45.,Current Condition
+"White blood cell of 8.8, H and H of 14 and 43 with a platelet count of 229,000.",Current Condition
+Liver enzymes are unremarkable. ,Current Condition
+"Sodium 139, potassium 4, creatinine 0.63 with a glucose of 93.",Current Condition
+Chest x-ray is unremarkable with hiatal hernia.,Current Condition
+EKG shows normal sinus rhythm with a heart rate of 67 and a first-degree AV block.,Current Condition
+"Assessment and plan atypical chest pain, needing to rule out acute coronary syndrome.",Medical Action
+Patient is now being admitted for serial troponin and CK-MB and if the trend is going up then might need cardiology consult versus Lexiscan.,Medical Action
+"Assessment and plan number two hiatal hernia with GERD, which I suspect is what is causing more of her symptoms.",Medical Action
+We will give her Protonix 40 mg IV once daily.,Medical Action
+Assessment and plan number three osteoarthritis and depression.,Medical Action
+"Continuing with her Norco and Prozac and we will inform her regular primary care, the physician, to follow up in the morning.",Medical Action
+Oh addendum to the past medical history also with history of depression and possible chronic recurrent UTI since she had been on Prozac and Macrobid.,Medical Action
+End of report.,Other
+Reason for consult PEG malfunction.,Chief Complaint
+"History of present illness, patient is a 73-year-old African-American male with history of CVA with residual left-sided hemiplegia and associated dysphagia, dependent on chronic gastrostomy tube feedings; who was admitted to outside hospital with acute onset of shortness of breath.",Client Details
+"This was attributed to pneumonia, likely from aspiration.",Chief Complaint
+"Hospital course was complicated by paroxysmal AFib, for which he was treated with Cardizem drip and subsequently transferred to Hospital Name.",Medical History
+"In the Hospital Name, patient initially was in the ICU and on Cardizem drip.",Medical History
+"Once stabilized, he was transferred to the floor.",Medical History
+"While in ICU, patient's gastrostomy tube was accidently removed.",Medical History
+"Past, patient himself is nonverbal, unable to provide any history. ",Current Condition
+Past medical and surgical history includes CVA with residual left-sided hemiplegia and aphasia.,Medical History
+"Next number, recurrent aspiration.",Medical History
+"Next number, diabetes mellitus.",Medical History
+"Next number, paroxysmal AFib.",Medical History
+"Next number, seizure disorder.",Medical History
+"Next number, COPD.",Medical History
+"Next number, functional quadriplegia.",Medical History
+"Next number, sacral bilateral buttock ulcers.",Medical History
+"Review of systems, unable to obtain.",Other
+Patient with underlying encephalopathy.,Current Condition
+Social history patient is a skilled nursing facility resident.,Social History
+"History of tobacco, alcohol is unknown.",Social History
+"Family history, not available.",Family History
+"Allergies, no known drug allergies.",Medical History
+"Medications, aspirin, atorvastatin, Unasyn, neomycin suspension, Protonix 40 daily, lactobacillus, insulin, albuterol, Atrovent, metoprolol 25 q.12, Depakene syrup, and acetaminophen.",Medical Action
+"On physical exam, patient has a blood pressure of 158/83, pulse is 97, temp is 97.1, respiratory rate is 20, and O2 sat is 97% on 5 liters.",Current Condition
+"Generally, patient is chronically ill-appearing African-American male, in no acute distress.",Client Details
+"HEENT, head is normocephalic, atraumatic.",Current Condition
+Pupils are sluggish.,Current Condition
+Neck is supple.,Current Condition
+No masses.,Current Condition
+"Lungs, coarse breath sounds bilaterally.",Current Condition
+Heart is regular rate.,Current Condition
+"Abdomen is soft, nontender, and nondistended.",Current Condition
+Foley catheter in place with a previously existing gastrostomy tube.,Current Condition
+"Extremities, no cyanosis or clubbing.",Current Condition
+1+ pulses.,Current Condition
+"Skin, no rash or lesion appreciated.",Current Condition
+"Neurologically, patient is minimally responsive to pain.",Current Condition
+"Laboratory, patient has a white count of 9.6, hemoglobin is 8.9, platelet count is 127. INR is 1.1, PTT is 42.1.",Current Condition
+Stool C. diff is negative.,Current Condition
+"Creatinine is 0.65, BUN is 20.",Current Condition
+"T-bili is 0.4, alk phos is 58.",Current Condition
+"Chest x-ray to evaluate shows cardiomegaly, bilateral lower lobe pneumonia.",Current Condition
+"Impression and recommendations, patient is a 73-year-old African-American male recovering from aspiration pneumonia with history of CVA and associated dysphagia, whose gastrostomy tube was dislodged and will need to be replaced so that patient can continue long-term nutritional supports.",Client Details
+Patient will benefit from EGD with replacement of gastrostomy tube.,Medical Action
+"Risks, benefits, and alternatives discussed, to be discussed with patient's family to obtain consent {period}",Medical Action
+Patient's respiratory status is relatively stable and he should be able to tolerate mild sedation with no difficulty.,Medical Action
+Continue with bronchodilators.,Medical Action
+Pulmonary Medicine is following.,Medical Action
+"Regarding anemia, this is stable, no evidence of gastrointestinal bleeding.",Current Condition
+Peptic ulcer disease will be ruled out at the time of endoscopy {period},Medical Action
+Continue with Protonix daily {period},Medical Action
+"Regarding underlying pneumonia, continue with IV Unasyn.",Medical Action
+Thank you or this consultation.,Other
+Follow patient with you.,Medical Action
+End of dictation.,Other
+"NG tube was placed and patient has been receiving feedings via the NG tube since, which he has been tolerating well {period}",Medical History
+All history is obtained from the chart {period},Other
+Reason for consult is PEG placement.,Chief Complaint
+"History of present illness, patient is a 62-year-old male with a history of hypertension, cirrhosis, end-stage renal disease.",Client Details
+He was admitted to outside hospital for worsening shortness of breath.,Chief Complaint
+Patient required BiPAP on presentation.,Medical History
+His respiratory insufficiency was probably attributed to pneumonia.,Chief Complaint
+"Once he was stabilized, he was transferred to Hospital Name for further management.",Medical History
+"At Hospital Name, he has had complicated hospital course with a trip to the intensive care unit, but most recently, he has been stable on the floor where he has been tolerating nasogastric tube feeds well.",Current Condition
+"Patient has not been eating well orally, has not been following commands adequately, and is being concerned about oropharyngeal dysphagia.",Current Condition
+"Past medical, surgical histosry, chronic hypoxemic-hypercapnic respiratory failure, end-stage renal disease, cirrhosis, adrenal insufficiency, depression, pancytopenia, paroxysmal AFib, right below-knee amputation.",Medical History
+"Social history, patient denies use of alcohol or tobacco.",Social History
+He is a skilled nursing facility resident.,Social History
+"Family history, no history gastrointestinal malignancy.",Family History
+"Allergies, sea food.",Medical History
+"Medications, Procrit, Effexor, Lipitor, depakene, ferrous sulfate, lubiprostone, zinc sulfate, hydrocortisone, simethicone, amiodarone, Colace, lactulose, Protonix, albuterol, Synthroid, Neurontin, Midodrine, Atarax, Norco, and vancomycin.",Medical Action
+"Review of systems, patient stressed, but stable.",Current Condition
+Patient denies any fevers or chills.,Current Condition
+No chest pain.,Current Condition
+No easy bruising or bleeding.,Current Condition
+No hematuria or dysuria.,Current Condition
+"On physical exam, patient has a blood pressure of 116/57, pulse is 99, temp is 98.",Current Condition
+"1, respiratory rate is 22, O2 sat 100% on 3 liters.",Current Condition
+"Generally, patient is chronically ill-appearing male, no acute distress.",Current Condition
+"HEENT, head is normocephalic, atraumatic.",Current Condition
+"Pupils are equal, round, reactive to light and accommodation.",Current Condition
+Extraocular muscles intact.,Current Condition
+Neck is supple.,Current Condition
+No JVD.,Current Condition
+"Lungs, coarse breath sounds bilaterally.",Current Condition
+Heart has regular rate.,Current Condition
+"Abdomen is soft, nontender, nondistended.",Current Condition
+Good bowel sounds.,Current Condition
+"Extremities, no cyanosis or clubbing.",Current Condition
+1+ pulses.,Current Condition
+"Skin, no rash or lesion appreciated.",Current Condition
+"Neurologically, patient alert to person, place; moves all extremities.",Current Condition
+Follows simple commands.,Current Condition
+Patient does have the right below-the-knee amputation.,Current Condition
+"Laboratory, transcriptionist please note dictation, the date of this consultation is month dd, yyyy.",Current Condition
+"Laboratory, patient has white count of 4.",Current Condition
+"5, hemoglobin is 10, platelet count is 65.",Current Condition
+INR is 1.,Current Condition
+PTT is 39.,Current Condition
+Stool occult positive.,Current Condition
+"Chest x-ray done on 1/25, cardiomegaly, mild pulmonary edema.",Current Condition
+"Impression, recommendations, patient is a 62-year-old male with history of end-stage renal disease of hep C cirrhosis with feeding difficulty [skip] dysphagia.",Client Details
+He may benefit from gastrostomy tube placement for long-term enteral nutritional support.,Medical Action
+Recommend abdominal ultrasound to evaluate for ascites.,Medical Action
+Presence of ascites would be developing contraindication to place any gastrostomy tube.,Medical Action
+"Additionally for now, a formal swallow evaluation is pending to decide and reconfirm whether patient has any significant underlying dysphagia that will prohibit him from continuing oral intake.",Medical Action
+"If, if it does confirm underlying dysphagia and there is evidence of ascites and if, if patient's family agree, we will go ahead and plan to proceed with placement of gastrostomy tube.",Medical Action
+"Regarding bowel habits, patient is on both lactulose and Amitiza.",Current Condition
+Recommend stopping the Amitiza and just continue lactulose so patient has two to three soft bowel movements per day.,Medical Action
+"Additionally, continue with rifaximin b.i.d. for possible underlying encephalopathy, which may contribute underlying dysphagia and poor and poor oral intake and feeding difficulties.",Medical Action
+"Regarding underlying pneumonia, this has been improving.",Current Condition
+Patient has minimal supplemental oxygen requirement.,Current Condition
+"Continue with, patient is currently off antibiotic.",Medical Action
+ID is following patient.,Other
+"Regarding end-stage renal disease, Nephrology is following.",Current Condition
+Continue with hemodialysis.,Medical Action
+Thank you for this consultation.,Other
+Follow patient with you.,Medical Action
+End of dictation.,Other
+Reason for consult is PEG malfunction.,Chief Complaint
+"Date of consultation was month dd, yyyy.",Other
+"History of present illness, patient is a 71-year-old white male with history of encephalopathy, diabetes, and hypertension and coronary artery disease who presented to outside hospital with hypotension and respiratory insufficiency.",Client Details
+"He was diagnosed with sepsis attributed to pneumonia, also found to have elevated troponins attributed to non-ST-elevated MI versus demand ischemia with IV antibiotic.",Chief Complaint
+Patient was was stabilized and subsequently transferred to Hospital Name for further management.,Medical History
+"At Hospital Name, patient was noted to have pulled out gastrostomy tube and is currently being fed via nasogastric tube, which he is tolerating well.",Medical History
+Patient was unable to provide any history.,Current Condition
+All history is obtained from the chart of previous records.,Other
+"Past medical, surgical history includes encephalopathy, coronary artery disease, diabetes mellitus, hypertension, bipolar disorder, depression, peripheral vascular disease, status post right below-the-knee amputation, anemia, hypoxemic respiratory failure, status post lower extremity bypass surgery.",Medical History
+"Review of systems, unable to obtain.",Other
+Patient with encephalopathy.,Medical History
+"Social history, patient is skilled nursing facility resident.",Social History
+No history of tobacco or alcohol.,Social History
+"Allergies, lamotrigine.",Medical History
+"Medications, albuterol, prednisone, vitamin D, aspirin, pravastatin, neomycin, Lovenox 30 q.d., morphine, Zofran.",Medical Action
+"On physical exam, patient has a blood pressure of 97/35, pulse is 101, temp is 97, respiratory rate is 20, O2 sat 92% on non-rebreather.",Current Condition
+"Generally, patient is chronically ill-appearing white male, moderate respiratory distress.",Current Condition
+"HEENT, head is normocephalic, atraumatic.",Current Condition
+"Pupils are equal, round, reactive to light and accommodation.",Current Condition
+Extraocular motions intact.,Current Condition
+Extraocular motions are intact.,Current Condition
+Neck is supple.,Current Condition
+No masses.,Current Condition
+"Lungs, coarse breath sounds bilaterally.",Current Condition
+"Heart is tachy, regular rate.",Current Condition
+"Abdomen is soft, nontender, nondistended.",Current Condition
+Foley catheter is in place of previous gastrostomy tube.,Current Condition
+"Extremities, no cyanosis or clubbing.",Current Condition
+1+ pulses.,Current Condition
+"Skin, no rash or lesion appreciated.",Current Condition
+"Neurologically, patient minimally responsive to pain.",Current Condition
+Moves all extremities in response to pain.,Current Condition
+"Laboratory, patient has a white count of 5.",Current Condition
+"7, hemoglobin is 10.",Current Condition
+"1, and platelet count is 395.",Current Condition
+INR is 1.,Current Condition
+PTT is 42.,Current Condition
+Patient has creatinine of 81.,Current Condition
+"Chest x-ray done on 2/11 shows consolidation, left lung base.",Current Condition
+"Impression, recommendations, patient is a 71-year-old male with history of multiple medical problems including encephalopathy, diabetes, and hypertension with with associated dysphagia requiring gastrostomy tube for long period nutritional support.",Client Details
+"Agree, note that patient will benefit from EGD with replacement of gastrostomy tube.",Medical Action
+This is best done once patient is medically stable with improvement in his respiratory status and also ideally treatment of underlying scabies.,Medical Action
+"Patient at, is at somewhat of an increased risk from a cardiac standpoint because of recent elevated troponins and likely cardiac [skip] at least likely cardiac ischemia secondary to septicemia.",Chief Complaint
+"Consequently, I will minimize sedation for the procedure.",Medical Action
+"For now, continue with prednisone and bronchodilators for respiratory insufficiency.",Medical Action
+Pulmonary Medicine is following.,Medical Action
+"Continue with nutrition per NG tube, which patient has been tolerating well.",Medical Action
+"Regarding history of coronary artery disease, continue with aspirin.",Medical Action
+"There has been no risk of gastrointestinal bleeding despite the fact the patient has been anemic, continue to monitor.",Medical Action
+Consider starting the patient on proton pump inhibitor.,Medical Action
+Thank you for this consultation.,Other
+Follow patient with you.,Medical Action
+End of dictation.,Other
+"Reason for consultation is feeding difficulties, perforated gastric ulcer.",Chief Complaint
+"History of present illness, patient is an 85-year-old Asian female with history of diabetes and hypertension.",Client Details
+"She was admitted to outside hospital with severe abdominal pain on Month, DD.",Medical History
+"CT scan revealed free air, for which she underwent emergent surgery that revealed a perforated prepyloric gastric ulcer that was repaired.",Chief Complaint
+"Once patient had recovered and stabilized, she was transferred to Hospital Name  for further evaluation.",Medical History
+"At the Hospital Name, she continues to be on TPN.",Medical History
+"Prior to being transferred, patient had an upper GI series that apparently revealed obstruction.",Medical History
+Plans were to repeat the upper GI series in a few weeks.,Medical History
+"For now, patient has been on TPN.",Current Condition
+"Past medical and surgical history includes hypoxemic respiratory failure, history of hypoxemic respiratory failure, history of perforated prepyloric gastric ulcer with peritonitis, history of pyloric stenosis, history of diverticular disease with history of perforation, status post surgical repair about 20 years ago, diabetes mellitus, hypertension, malnutrition, pain management.",Medical History
+"Review of systems, limited.",Other
+Patient complains of some abdominal discomfort around her wound.,Chief Complaint
+She denies any shortness of breath.,Current Condition
+Denies any chest pain.,Current Condition
+No cough.,Current Condition
+No easy bruising or bleeding.,Current Condition
+"Social history, no history of tobacco, alcohol, or drugs.",Current Condition
+"Allergies, sulfonamide.",Current Condition
+"Medications, fluconazole, Protonix, insulin, lactobacillus, Xopenex, hydralazine which is p.r.n.",Medical Action
+"On physical exam, patient has a blood pressure of.",Current Condition
+"Actually transcriptionist, please note date of consultation was Month, DD, YYYY.",Other
+"So, get down to physical exam, vitals, patient has a blood pressure of 95/65, pulse is 118, temp is 99.",Current Condition
+"7, respiratory rate is 20, O2 sat is 100% on room air.",Current Condition
+"Generally, patient is a chronically ill-appearing female, in no acute distress.",Current Condition
+"HEENT head is normocephalic, atraumatic.",Current Condition
+"Pupils are equal, round, reactive to light and accommodation.",Current Condition
+Extraocular muscles intact.,Current Condition
+Neck is supple.,Current Condition
+No mass.,Current Condition
+No JVD.,Current Condition
+"Lungs, clear to auscultation bilaterally.",Current Condition
+"Heart, regular rate.",Current Condition
+Abdomen is soft.,Current Condition
+"Mild tenderness around the surgical scar, which is vertical and seen in the upper abdomen.",Current Condition
+"Extremities, no cyanosis or clubbing.",Current Condition
+1+ pulses.,Current Condition
+"Skin, no rash or lesion.",Current Condition
+"Neurologically, patient is alert and oriented x4, moves all extremities, follows simple commands.",Current Condition
+Laboratory hemoglobin is 9.,Current Condition
+"5, platelet count is 165.",Current Condition
+INR is 1.,Current Condition
+"1, PTT is 33.",Current Condition
+Stool C. diff is negative.,Current Condition
+Creatinine is 0.,Current Condition
+"86, BUN is 37.",Current Condition
+"Radiology chest x-ray done on MM, DD, cardiomegaly without changes of congestive heart failure.",Current Condition
+"Impression and recommendations patient is an 85-year-old Asian female, recovering from a perforated prepyloric gastric ulcer.",Client Details
+"Agree with repeat of upper GI series, which will be done with the use of Gastrografin in case there is any evidence of extravasation 0ast.",Medical Action
+"If there is any evidence of persistent pyloric stenosis, then patient should have an upper endoscopy for further evaluation.",Medical Action
+"Otherwise, patient may be started on an oral diet.",Medical Action
+There is no evidence of oropharyngeal dysphagia and patient is relatively alert and she otherwise tolerates p.o. intake well.,Medical Action
+"Considering recent pyloric ulcer, patient should be on Protonix b.i.d. Regarding anemia, this is stable, likely secondary to chronic disease.",Medical Action
+Continue to monitor closely.,Medical Action
+"For now, continue with TPN until upper GI series is completed.",Medical Action
+Thank you for this consultation.,Other
+Follow patient with you.,Medical Action
+End of dictation.,Other
+Reason for admission number one is acute on chronic respiratory failure.,Chief Complaint
+Next is pulmonary fibrosis secondary to rheumatoid arthritis.,Chief Complaint
+Next is hypertension.,Chief Complaint
+Next is poorly controlled diabetes.,Chief Complaint
+"Next is secondary diagnoses coronary artery disease, CABG 15 years ago.",Chief Complaint
+"Next is atrial fibrillation, rate controlled.",Chief Complaint
+Next is GERD.,Chief Complaint
+Next is depression.,Chief Complaint
+Next is acute kidney injury.,Chief Complaint
+Next is rheumatoid arthritis.,Chief Complaint
+Next is discharge diagnoses is same as above.,Current Condition
+Next is consultants on the case are the physician from Pulmonary Medicine and next is the physician from Endocrinology the physician from Endocrinology.,Other
+"Next is pertinent studies performed during hospitalization, patient had a chest x-ray on Month DD, YYYY which shows cardiomegaly with changes of overt hydration.",Medical History
+"Next is pertinent microbiology during hospitalization, patient had MRSA, VRE, surveillance culture.",Medical History
+"Ear, nose, and throat culture was negative.",Medical History
+"Next is pertinent laboratories, the patient had a WBC of 13.",Medical History
+"2, which is considered chronic on prednisone.",Medical History
+"Next is ABG performed, pH is 7.",Medical History
+"6, pCO2 of 53, pO2 of 102 performed on Month DD, YYYY.",Medical History
+"Next is history of present illness patient is a pleasant 67-year-old gentleman with a longstanding history of coronary artery disease status post CABG, rheumatoid arthritis causing pulmonary fibrosis, COPD, asthma, atrial fibrillation rate controlled, acute on chronic kidney disease, presented to the Barlow Hospital with acute on chronic respiratory failure, status post hospitalization.",Client Details
+"Patient was hospitalized at an outside hospital required intubation for COPD exacerbation, required steroids and IV antibiotics.",Medical History
+Patient was weaned off and extubated.,Medical History
+Patient improved.,Medical History
+Patient was transferred to Barlow Hospital for further respiratory respiratory respiratory therapy and pulmonary care.,Medical History
+"Patient was seen, evaluated and treated, improved and discharged home.",Medical History
+"Next is hospital course for problem list number one acute on chronic respiratory failure likely associated with underlying for pulmonary status of pulmonary fibrosis, COPD, asthma.",Medical History
+"Patient was given IV steroids, IV antibiotics, breathing treatments, handheld nebulizers.",Medical History
+Patient improved during hospitalization and was able to be titrated down from face mask down to 2 liters nasal cannula.,Medical History
+"Patient was discharged with steroids and to follow up with his regular doctor, steroid inhaler and handheld nebulizers.",Medical History
+"Next is hypertension, continue on blood pressure medication control.",Medical Action
+"Next is poorly controlled diabetes, likely secondary to steroid-induced diabetes.",Current Condition
+Patient was provided with sliding scale.,Medical History
+"Next is pulmonary fibrosis, poor prognosis.",Current Condition
+"Patient does have history of rheumatoid arthritis, currently on prednisone {slash} immunosuppressant.",Medical History
+Patient stabilized during hospitalization.,Medical History
+"Next is education we provide education to patient regarding hospitalization, need for hospitalization, patient acknowledges understanding.",Medical Action
+Next is followup follow up with his primary care doctor and pulmonologist for further therapy and care.,Medical Action
+Next home health will be sent in for evaluation of the patient.,Medical Action
+Next is condition on discharge considered stable.,Medical Action
+Next discharge medication list please see DC med list in the computer.,Medical Action
+Next is diet diabetic diet.,Medical Action
+No food restriction.,Medical Action
+"Next is activities, progress as tolerated and as directed by physical therapy, occupational therapy from home health.",Medical Action
+Next code status patient is full code.,Other
+This is the end of the dictation of this patient.,Other
+Thank you.,Other

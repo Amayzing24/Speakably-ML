@@ -1,0 +1,905 @@
+,Sentence,Tag
+0,Chief complaint atypical chest pain.,1
+1,History the patient is a 74-year-old Caucasian female patient of the physician who presented to the emergency room with atypical chest pain {period},8
+2,"She saw her hand orthopedist, the physician because of right wrist pain and was given meloxicam on the MM, DD {period}",2
+3,"She also is aware of having hiatal hernia and having GERD, which was controlled on ranitidine {period}",2
+4,She started taking meloxicam five days ago and had taken once daily for the past five days and had been experiencing this discomfort on her lower sternum that she described it like tightness and this had prompted her to come to the emergency room {period},2
+5,Her workup showed slightly elevated troponin of 0.45 and EKG showing nonspecific ST wave changes {period},1
+6,"She is comfortable resting in the gurney, but due to the slightly elevated troponin that she is being admitted for to rule out possibility of having acute coronary syndrome.",1
+7,"Past medical history is significant for having one episode of high blood pressure most likely due to stress after having ERCP, but not on any medication.",2
+8,History of ulcerative colitis.,2
+9,History of osteoarthritis and osteoporosis.,2
+10,History of melanoma and basal cell cancer. ,2
+11,History of hypercholesterolemia.,2
+12,History of breast cancer.,2
+13,History of sleep apnea.,2
+14,"Past surgical history is status post laparoscopic cholecystectomy, status post parathyroidectomy, status post cataract surgery, status post bilateral knee arthroscopic surgery, status post total knee replacement, status post abdominal hysterectomy, status post mastectomy, status post lower back surgery.",2
+15,Social history she had been married and living with her husband and a known smoker.,4
+16,Denies drinking any alcohol.,4
+17,Allergies she is unable to tolerate statin and penicillin and Diovan.,2
+18,"List of medications includes Prozac 20 mg once daily, meloxicam 15 mg once daily, Zantac 150 mg twice daily and Ambien 10 mg at bedtime and Norco 7.5/325 mg as needed.",2
+19,"Physical exam, she is awake, alert, comfortable, resting in the gurney, in no cardiorespiratory distress.",3
+20,"Blood pressure 150/70, heart rate in the 60s, respirations 18.",3
+21,HEENT anicteric sclerae.,3
+22,Pink conjunctivae.,3
+23,Clear nasal cavity and oropharynx.,3
+24,Neck is supple.,3
+25,No mass.,3
+26,Lungs sound clear to auscultation bilateral with unlabored breathing.,3
+27,Heart sound regular rhythm.,3
+28,No murmur.,3
+29,Extremity no edema.,3
+30,No cyanosis.,3
+31,Labs showed troponin of 0.45.,3
+32,"White blood cell of 8.8, H and H of 14 and 43 with a platelet count of 229,000.",3
+33,Liver enzymes are unremarkable. ,3
+34,"Sodium 139, potassium 4, creatinine 0.63 with a glucose of 93.",3
+35,Chest x-ray is unremarkable with hiatal hernia.,3
+36,EKG shows normal sinus rhythm with a heart rate of 67 and a first-degree AV block.,3
+37,"Assessment and plan atypical chest pain, needing to rule out acute coronary syndrome.",6
+38,Patient is now being admitted for serial troponin and CK-MB and if the trend is going up then might need cardiology consult versus Lexiscan.,6
+39,"Assessment and plan number two hiatal hernia with GERD, which I suspect is what is causing more of her symptoms.",6
+40,We will give her Protonix 40 mg IV once daily.,6
+41,Assessment and plan number three osteoarthritis and depression.,6
+42,"Continuing with her Norco and Prozac and we will inform her regular primary care, the physician, to follow up in the morning.",6
+43,Oh addendum to the past medical history also with history of depression and possible chronic recurrent UTI since she had been on Prozac and Macrobid.,6
+44,End of report.,7
+45,Reason for consult PEG malfunction.,1
+46,"History of present illness, patient is a 73-year-old African-American male with history of CVA with residual left-sided hemiplegia and associated dysphagia, dependent on chronic gastrostomy tube feedings; who was admitted to outside hospital with acute onset of shortness of breath.",8
+47,"This was attributed to pneumonia, likely from aspiration.",1
+48,"Hospital course was complicated by paroxysmal AFib, for which he was treated with Cardizem drip and subsequently transferred to Hospital Name.",2
+49,"In the Hospital Name, patient initially was in the ICU and on Cardizem drip.",2
+50,"Once stabilized, he was transferred to the floor.",2
+51,"While in ICU, patient's gastrostomy tube was accidently removed.",2
+52,"Past, patient himself is nonverbal, unable to provide any history. ",3
+53,Past medical and surgical history includes CVA with residual left-sided hemiplegia and aphasia.,2
+54,"Next number, recurrent aspiration.",2
+55,"Next number, diabetes mellitus.",2
+56,"Next number, paroxysmal AFib.",2
+57,"Next number, seizure disorder.",2
+58,"Next number, COPD.",2
+59,"Next number, functional quadriplegia.",2
+60,"Next number, sacral bilateral buttock ulcers.",2
+61,"Review of systems, unable to obtain.",7
+62,Patient with underlying encephalopathy.,3
+63,Social history patient is a skilled nursing facility resident.,4
+64,"History of tobacco, alcohol is unknown.",4
+65,"Family history, not available.",5
+66,"Allergies, no known drug allergies.",2
+67,"Medications, aspirin, atorvastatin, Unasyn, neomycin suspension, Protonix 40 daily, lactobacillus, insulin, albuterol, Atrovent, metoprolol 25 q.12, Depakene syrup, and acetaminophen.",6
+68,"On physical exam, patient has a blood pressure of 158/83, pulse is 97, temp is 97.1, respiratory rate is 20, and O2 sat is 97% on 5 liters.",3
+69,"Generally, patient is chronically ill-appearing African-American male, in no acute distress.",8
+70,"HEENT, head is normocephalic, atraumatic.",3
+71,Pupils are sluggish.,3
+72,Neck is supple.,3
+73,No masses.,3
+74,"Lungs, coarse breath sounds bilaterally.",3
+75,Heart is regular rate.,3
+76,"Abdomen is soft, nontender, and nondistended.",3
+77,Foley catheter in place with a previously existing gastrostomy tube.,3
+78,"Extremities, no cyanosis or clubbing.",3
+79,1+ pulses.,3
+80,"Skin, no rash or lesion appreciated.",3
+81,"Neurologically, patient is minimally responsive to pain.",3
+82,"Laboratory, patient has a white count of 9.6, hemoglobin is 8.9, platelet count is 127. INR is 1.1, PTT is 42.1.",3
+83,Stool C. diff is negative.,3
+84,"Creatinine is 0.65, BUN is 20.",3
+85,"T-bili is 0.4, alk phos is 58.",3
+86,"Chest x-ray to evaluate shows cardiomegaly, bilateral lower lobe pneumonia.",3
+87,"Impression and recommendations, patient is a 73-year-old African-American male recovering from aspiration pneumonia with history of CVA and associated dysphagia, whose gastrostomy tube was dislodged and will need to be replaced so that patient can continue long-term nutritional supports.",8
+88,Patient will benefit from EGD with replacement of gastrostomy tube.,6
+89,"Risks, benefits, and alternatives discussed, to be discussed with patient's family to obtain consent {period}",6
+90,Patient's respiratory status is relatively stable and he should be able to tolerate mild sedation with no difficulty.,6
+91,Continue with bronchodilators.,6
+92,Pulmonary Medicine is following.,6
+93,"Regarding anemia, this is stable, no evidence of gastrointestinal bleeding.",3
+94,Peptic ulcer disease will be ruled out at the time of endoscopy {period},6
+95,Continue with Protonix daily {period},6
+96,"Regarding underlying pneumonia, continue with IV Unasyn.",6
+97,Thank you or this consultation.,7
+98,Follow patient with you.,6
+99,End of dictation.,7
+100,"NG tube was placed and patient has been receiving feedings via the NG tube since, which he has been tolerating well {period}",2
+101,All history is obtained from the chart {period},7
+102,Reason for consult is PEG placement.,1
+103,"History of present illness, patient is a 62-year-old male with a history of hypertension, cirrhosis, end-stage renal disease.",8
+104,He was admitted to outside hospital for worsening shortness of breath.,1
+105,Patient required BiPAP on presentation.,2
+106,His respiratory insufficiency was probably attributed to pneumonia.,1
+107,"Once he was stabilized, he was transferred to Hospital Name for further management.",2
+108,"At Hospital Name, he has had complicated hospital course with a trip to the intensive care unit, but most recently, he has been stable on the floor where he has been tolerating nasogastric tube feeds well.",3
+109,"Patient has not been eating well orally, has not been following commands adequately, and is being concerned about oropharyngeal dysphagia.",3
+110,"Past medical, surgical histosry, chronic hypoxemic-hypercapnic respiratory failure, end-stage renal disease, cirrhosis, adrenal insufficiency, depression, pancytopenia, paroxysmal AFib, right below-knee amputation.",2
+111,"Social history, patient denies use of alcohol or tobacco.",4
+112,He is a skilled nursing facility resident.,4
+113,"Family history, no history gastrointestinal malignancy.",5
+114,"Allergies, sea food.",2
+115,"Medications, Procrit, Effexor, Lipitor, depakene, ferrous sulfate, lubiprostone, zinc sulfate, hydrocortisone, simethicone, amiodarone, Colace, lactulose, Protonix, albuterol, Synthroid, Neurontin, Midodrine, Atarax, Norco, and vancomycin.",6
+116,"Review of systems, patient stressed, but stable.",3
+117,Patient denies any fevers or chills.,3
+118,No chest pain.,3
+119,No easy bruising or bleeding.,3
+120,No hematuria or dysuria.,3
+121,"On physical exam, patient has a blood pressure of 116/57, pulse is 99, temp is 98.",3
+122,"1, respiratory rate is 22, O2 sat 100% on 3 liters.",3
+123,"Generally, patient is chronically ill-appearing male, no acute distress.",3
+124,"HEENT, head is normocephalic, atraumatic.",3
+125,"Pupils are equal, round, reactive to light and accommodation.",3
+126,Extraocular muscles intact.,3
+127,Neck is supple.,3
+128,No JVD.,3
+129,"Lungs, coarse breath sounds bilaterally.",3
+130,Heart has regular rate.,3
+131,"Abdomen is soft, nontender, nondistended.",3
+132,Good bowel sounds.,3
+133,"Extremities, no cyanosis or clubbing.",3
+134,1+ pulses.,3
+135,"Skin, no rash or lesion appreciated.",3
+136,"Neurologically, patient alert to person, place; moves all extremities.",3
+137,Follows simple commands.,3
+138,Patient does have the right below-the-knee amputation.,3
+139,"Laboratory, transcriptionist please note dictation, the date of this consultation is month dd, yyyy.",3
+140,"Laboratory, patient has white count of 4.",3
+141,"5, hemoglobin is 10, platelet count is 65.",3
+142,INR is 1.,3
+143,PTT is 39.,3
+144,Stool occult positive.,3
+145,"Chest x-ray done on 1/25, cardiomegaly, mild pulmonary edema.",3
+146,"Impression, recommendations, patient is a 62-year-old male with history of end-stage renal disease of hep C cirrhosis with feeding difficulty [skip] dysphagia.",8
+147,He may benefit from gastrostomy tube placement for long-term enteral nutritional support.,6
+148,Recommend abdominal ultrasound to evaluate for ascites.,6
+149,Presence of ascites would be developing contraindication to place any gastrostomy tube.,6
+150,"Additionally for now, a formal swallow evaluation is pending to decide and reconfirm whether patient has any significant underlying dysphagia that will prohibit him from continuing oral intake.",6
+151,"If, if it does confirm underlying dysphagia and there is evidence of ascites and if, if patient's family agree, we will go ahead and plan to proceed with placement of gastrostomy tube.",6
+152,"Regarding bowel habits, patient is on both lactulose and Amitiza.",3
+153,Recommend stopping the Amitiza and just continue lactulose so patient has two to three soft bowel movements per day.,6
+154,"Additionally, continue with rifaximin b.i.d. for possible underlying encephalopathy, which may contribute underlying dysphagia and poor and poor oral intake and feeding difficulties.",6
+155,"Regarding underlying pneumonia, this has been improving.",3
+156,Patient has minimal supplemental oxygen requirement.,3
+157,"Continue with, patient is currently off antibiotic.",6
+158,ID is following patient.,7
+159,"Regarding end-stage renal disease, Nephrology is following.",3
+160,Continue with hemodialysis.,6
+161,Thank you for this consultation.,7
+162,Follow patient with you.,6
+163,End of dictation.,7
+164,Reason for consult is PEG malfunction.,1
+165,"Date of consultation was month dd, yyyy.",7
+166,"History of present illness, patient is a 71-year-old white male with history of encephalopathy, diabetes, and hypertension and coronary artery disease who presented to outside hospital with hypotension and respiratory insufficiency.",8
+167,"He was diagnosed with sepsis attributed to pneumonia, also found to have elevated troponins attributed to non-ST-elevated MI versus demand ischemia with IV antibiotic.",1
+168,Patient was was stabilized and subsequently transferred to Hospital Name for further management.,2
+169,"At Hospital Name, patient was noted to have pulled out gastrostomy tube and is currently being fed via nasogastric tube, which he is tolerating well.",2
+170,Patient was unable to provide any history.,3
+171,All history is obtained from the chart of previous records.,7
+172,"Past medical, surgical history includes encephalopathy, coronary artery disease, diabetes mellitus, hypertension, bipolar disorder, depression, peripheral vascular disease, status post right below-the-knee amputation, anemia, hypoxemic respiratory failure, status post lower extremity bypass surgery.",2
+173,"Review of systems, unable to obtain.",7
+174,Patient with encephalopathy.,2
+175,"Social history, patient is skilled nursing facility resident.",4
+176,No history of tobacco or alcohol.,4
+177,"Allergies, lamotrigine.",2
+178,"Medications, albuterol, prednisone, vitamin D, aspirin, pravastatin, neomycin, Lovenox 30 q.d., morphine, Zofran.",6
+179,"On physical exam, patient has a blood pressure of 97/35, pulse is 101, temp is 97, respiratory rate is 20, O2 sat 92% on non-rebreather.",3
+180,"Generally, patient is chronically ill-appearing white male, moderate respiratory distress.",3
+181,"HEENT, head is normocephalic, atraumatic.",3
+182,"Pupils are equal, round, reactive to light and accommodation.",3
+183,Extraocular motions intact.,3
+184,Extraocular motions are intact.,3
+185,Neck is supple.,3
+186,No masses.,3
+187,"Lungs, coarse breath sounds bilaterally.",3
+188,"Heart is tachy, regular rate.",3
+189,"Abdomen is soft, nontender, nondistended.",3
+190,Foley catheter is in place of previous gastrostomy tube.,3
+191,"Extremities, no cyanosis or clubbing.",3
+192,1+ pulses.,3
+193,"Skin, no rash or lesion appreciated.",3
+194,"Neurologically, patient minimally responsive to pain.",3
+195,Moves all extremities in response to pain.,3
+196,"Laboratory, patient has a white count of 5.",3
+197,"7, hemoglobin is 10.",3
+198,"1, and platelet count is 395.",3
+199,INR is 1.,3
+200,PTT is 42.,3
+201,Patient has creatinine of 81.,3
+202,"Chest x-ray done on 2/11 shows consolidation, left lung base.",3
+203,"Impression, recommendations, patient is a 71-year-old male with history of multiple medical problems including encephalopathy, diabetes, and hypertension with with associated dysphagia requiring gastrostomy tube for long period nutritional support.",8
+204,"Agree, note that patient will benefit from EGD with replacement of gastrostomy tube.",6
+205,This is best done once patient is medically stable with improvement in his respiratory status and also ideally treatment of underlying scabies.,6
+206,"Patient at, is at somewhat of an increased risk from a cardiac standpoint because of recent elevated troponins and likely cardiac [skip] at least likely cardiac ischemia secondary to septicemia.",1
+207,"Consequently, I will minimize sedation for the procedure.",6
+208,"For now, continue with prednisone and bronchodilators for respiratory insufficiency.",6
+209,Pulmonary Medicine is following.,6
+210,"Continue with nutrition per NG tube, which patient has been tolerating well.",6
+211,"Regarding history of coronary artery disease, continue with aspirin.",6
+212,"There has been no risk of gastrointestinal bleeding despite the fact the patient has been anemic, continue to monitor.",6
+213,Consider starting the patient on proton pump inhibitor.,6
+214,Thank you for this consultation.,7
+215,Follow patient with you.,6
+216,End of dictation.,7
+217,"Reason for consultation is feeding difficulties, perforated gastric ulcer.",1
+218,"History of present illness, patient is an 85-year-old Asian female with history of diabetes and hypertension.",8
+219,"She was admitted to outside hospital with severe abdominal pain on Month, DD.",2
+220,"CT scan revealed free air, for which she underwent emergent surgery that revealed a perforated prepyloric gastric ulcer that was repaired.",1
+221,"Once patient had recovered and stabilized, she was transferred to Hospital Name  for further evaluation.",2
+222,"At the Hospital Name, she continues to be on TPN.",2
+223,"Prior to being transferred, patient had an upper GI series that apparently revealed obstruction.",2
+224,Plans were to repeat the upper GI series in a few weeks.,2
+225,"For now, patient has been on TPN.",3
+226,"Past medical and surgical history includes hypoxemic respiratory failure, history of hypoxemic respiratory failure, history of perforated prepyloric gastric ulcer with peritonitis, history of pyloric stenosis, history of diverticular disease with history of perforation, status post surgical repair about 20 years ago, diabetes mellitus, hypertension, malnutrition, pain management.",2
+227,"Review of systems, limited.",7
+228,Patient complains of some abdominal discomfort around her wound.,1
+229,She denies any shortness of breath.,3
+230,Denies any chest pain.,3
+231,No cough.,3
+232,No easy bruising or bleeding.,3
+233,"Social history, no history of tobacco, alcohol, or drugs.",3
+234,"Allergies, sulfonamide.",3
+235,"Medications, fluconazole, Protonix, insulin, lactobacillus, Xopenex, hydralazine which is p.r.n.",6
+236,"On physical exam, patient has a blood pressure of.",3
+237,"Actually transcriptionist, please note date of consultation was Month, DD, YYYY.",7
+238,"So, get down to physical exam, vitals, patient has a blood pressure of 95/65, pulse is 118, temp is 99.",3
+239,"7, respiratory rate is 20, O2 sat is 100% on room air.",3
+240,"Generally, patient is a chronically ill-appearing female, in no acute distress.",3
+241,"HEENT head is normocephalic, atraumatic.",3
+242,"Pupils are equal, round, reactive to light and accommodation.",3
+243,Extraocular muscles intact.,3
+244,Neck is supple.,3
+245,No mass.,3
+246,No JVD.,3
+247,"Lungs, clear to auscultation bilaterally.",3
+248,"Heart, regular rate.",3
+249,Abdomen is soft.,3
+250,"Mild tenderness around the surgical scar, which is vertical and seen in the upper abdomen.",3
+251,"Extremities, no cyanosis or clubbing.",3
+252,1+ pulses.,3
+253,"Skin, no rash or lesion.",3
+254,"Neurologically, patient is alert and oriented x4, moves all extremities, follows simple commands.",3
+255,Laboratory hemoglobin is 9.,3
+256,"5, platelet count is 165.",3
+257,INR is 1.,3
+258,"1, PTT is 33.",3
+259,Stool C. diff is negative.,3
+260,Creatinine is 0.,3
+261,"86, BUN is 37.",3
+262,"Radiology chest x-ray done on MM, DD, cardiomegaly without changes of congestive heart failure.",3
+263,"Impression and recommendations patient is an 85-year-old Asian female, recovering from a perforated prepyloric gastric ulcer.",8
+264,"Agree with repeat of upper GI series, which will be done with the use of Gastrografin in case there is any evidence of extravasation 0ast.",6
+265,"If there is any evidence of persistent pyloric stenosis, then patient should have an upper endoscopy for further evaluation.",6
+266,"Otherwise, patient may be started on an oral diet.",6
+267,There is no evidence of oropharyngeal dysphagia and patient is relatively alert and she otherwise tolerates p.o. intake well.,6
+268,"Considering recent pyloric ulcer, patient should be on Protonix b.i.d. Regarding anemia, this is stable, likely secondary to chronic disease.",6
+269,Continue to monitor closely.,6
+270,"For now, continue with TPN until upper GI series is completed.",6
+271,Thank you for this consultation.,7
+272,Follow patient with you.,6
+273,End of dictation.,7
+274,Reason for admission number one is acute on chronic respiratory failure.,1
+275,Next is pulmonary fibrosis secondary to rheumatoid arthritis.,1
+276,Next is hypertension.,1
+277,Next is poorly controlled diabetes.,1
+278,"Next is secondary diagnoses coronary artery disease, CABG 15 years ago.",1
+279,"Next is atrial fibrillation, rate controlled.",1
+280,Next is GERD.,1
+281,Next is depression.,1
+282,Next is acute kidney injury.,1
+283,Next is rheumatoid arthritis.,1
+284,Next is discharge diagnoses is same as above.,3
+285,Next is consultants on the case are the physician from Pulmonary Medicine and next is the physician from Endocrinology the physician from Endocrinology.,7
+286,"Next is pertinent studies performed during hospitalization, patient had a chest x-ray on Month DD, YYYY which shows cardiomegaly with changes of overt hydration.",2
+287,"Next is pertinent microbiology during hospitalization, patient had MRSA, VRE, surveillance culture.",2
+288,"Ear, nose, and throat culture was negative.",2
+289,"Next is pertinent laboratories, the patient had a WBC of 13.",2
+290,"2, which is considered chronic on prednisone.",2
+291,"Next is ABG performed, pH is 7.",2
+292,"6, pCO2 of 53, pO2 of 102 performed on Month DD, YYYY.",2
+293,"Next is history of present illness patient is a pleasant 67-year-old gentleman with a longstanding history of coronary artery disease status post CABG, rheumatoid arthritis causing pulmonary fibrosis, COPD, asthma, atrial fibrillation rate controlled, acute on chronic kidney disease, presented to the Barlow Hospital with acute on chronic respiratory failure, status post hospitalization.",8
+294,"Patient was hospitalized at an outside hospital required intubation for COPD exacerbation, required steroids and IV antibiotics.",2
+295,Patient was weaned off and extubated.,2
+296,Patient improved.,2
+297,Patient was transferred to Barlow Hospital for further respiratory respiratory respiratory therapy and pulmonary care.,2
+298,"Patient was seen, evaluated and treated, improved and discharged home.",2
+299,"Next is hospital course for problem list number one acute on chronic respiratory failure likely associated with underlying for pulmonary status of pulmonary fibrosis, COPD, asthma.",2
+300,"Patient was given IV steroids, IV antibiotics, breathing treatments, handheld nebulizers.",2
+301,Patient improved during hospitalization and was able to be titrated down from face mask down to 2 liters nasal cannula.,2
+302,"Patient was discharged with steroids and to follow up with his regular doctor, steroid inhaler and handheld nebulizers.",2
+303,"Next is hypertension, continue on blood pressure medication control.",6
+304,"Next is poorly controlled diabetes, likely secondary to steroid-induced diabetes.",3
+305,Patient was provided with sliding scale.,2
+306,"Next is pulmonary fibrosis, poor prognosis.",3
+307,"Patient does have history of rheumatoid arthritis, currently on prednisone {slash} immunosuppressant.",2
+308,Patient stabilized during hospitalization.,2
+309,"Next is education we provide education to patient regarding hospitalization, need for hospitalization, patient acknowledges understanding.",6
+310,Next is followup follow up with his primary care doctor and pulmonologist for further therapy and care.,6
+311,Next home health will be sent in for evaluation of the patient.,6
+312,Next is condition on discharge considered stable.,6
+313,Next discharge medication list please see DC med list in the computer.,6
+314,Next is diet diabetic diet.,6
+315,No food restriction.,6
+316,"Next is activities, progress as tolerated and as directed by physical therapy, occupational therapy from home health.",6
+317,Next code status patient is full code.,7
+318,This is the end of the dictation of this patient.,7
+319,Thank you.,7
+320,Medical status patient was seen and examined on rounds in the patient’s room with his wife.,7
+321,He continues to make progress in all therapeutic areas.,3
+322,He is tolerating physical therapy and occupational therapy.,3
+323,Review of systems he complains of weakness and balance deficits.,1
+324,He voices no other new complaints.,3
+325,Remainder of the 14-point review of systems is essentially negative.,3
+326,"On exam, pleasant male in no acute distress.",8
+327,Vital signs are stable.,3
+328,"Blood pressure 130/88, temperature 98.",3
+329,"2, heart rate 90 heart rate 82.",3
+330,HEENT extraocular motions intact.,3
+331,Mucous membranes moist without lesions.,3
+332,Neck supple without lymphadenopathy.,3
+333,"Lungs clear to auscultation without rhonchi, crepitus or wheezing.",3
+334,Heart regular rate and rhythm without murmurs or extra sounds.,3
+335,"Abdomen soft, nontender.",3
+336,No organomegaly.,3
+337,Extremities with trace edema in the lower extremities.,3
+338,Spine without paraspinal muscle tenderness.,3
+339,Neurologic patient moves all extremities without focal weakness.,3
+340,He has some give way weakness at the hips and shoulders with 4+/5 strength noted.,3
+341,Labs WBC 4.,3
+342,"4, hemoglobin 12.",3
+343,"3, hematocrit 35.",3
+344,7,7
+345,"Sodium 137, potassium 4.",3
+346,"1, chloride 106, CO2 24, BUN I mean glucose 70, BUN 14, creatinine 0.",3
+347,88,7
+348,Assessment diffuse d i f u s e diffuse myopathy with progressive weakness and frequent falls.,3
+349,"Number two Alzheimer’s dementia, managed with Exelon patch.",2
+350,"Number three rheumatoid arthritis, managed with Prednisone.",2
+351,"Number four spinal stenosis with chronic low back pain, managed with Tramadol.",2
+352,"Number five gastroesophageal reflux disease, managed with Pepcid.",2
+353,"Number six hypertension, managed with multidrug regimen.",2
+354,"Number seven depression and anxiety disorder, managed with Lexapro and anxiolytics as needed.",2
+355,Plan it is felt the patient will benefit from continued subacute rehabilitation with physical therapy to upgrade mobility and occupational therapy to upgrade activities of daily living.,6
+356,Medical status patient was seen and examined on rounds.,7
+357,He continues to make slow but steady progress in all therapeutic areas.,3
+358,He has been followed by speech therapy who feels he has severe dysphagia with aspiration and has recommended an n.p.o. status.,2
+359,Family is considering hospice and feeding way versus P E G tube.,2
+360,Review of systems he believes he has no new complaints.,3
+361,He feels he can swallow fine.,3
+362,The remainder of the 14-point review of systems essentially negative.,3
+363,"On exam, cachectic appearing male in no acute distress.",8
+364,Vital signs are stable.,3
+365,"Blood pressure is 140/80, temperature 98.",3
+366,"2, heart rate 72.",3
+367,HEENT extraocular motions intact.,3
+368,Mucous membranes are moist without lesions.,3
+369,Necks supple without lymphadenopathy.,3
+370,"Lungs clear to auscultation without rhonchi, crepitus, no wheezing.",3
+371,"Heart ready heart regular rate and rhythm without murmurs, no extra sounds.",3
+372,"Abdomen soft, nontender.",3
+373,No organomegaly.,3
+374,Extremities with 1+ edema with venostasis changes noted.,3
+375,Spine without paraspinal muscle tenderness.,3
+376,Neurologic alert and cooperative.,3
+377,He is disoriented.,3
+378,"Labs sodium 144, potassium 4.",3
+379,"8, chloride 112, CO2 25, BUN 41, creatinine 1.",3
+380,"65, glucose 146.",3
+381,WBC 6.,3
+382,"3, hemoglobin 9.",3
+383,"2, hematocrit 27.",3
+384,2,7
+385,Assessment traumatic brain injury with loss of consciousness for less than 30 minutes.,3
+386,Number two post-concussive syndrome.,2
+387,Speech therapy is following for cognitive and language rehabilitation.,2
+388,Number three diabetes mellitus type 2 with neurologic manifestations.,2
+389,"Number four diabetic polyneuropathy, managed without neuropathic medication.",2
+390,"Number four hypertension, managed with Lasix.",2
+391,Number six cachexia with failure to thrive.,2
+392,Nutrition the dietician following for nutritional support.,2
+393,"Number seven asthmatic bronchitis, managed with inhaled steroids and bronchodilators.",2
+394,"Number eight acute on chronic renal insufficiency, creatinine is 1.",2
+395,6,7
+396,We will follow labs.,6
+397,Number nine dysphagia.,2
+398,Speech is recommended speech therapy is recommending n.p.o. Family is deciding on a on a feeding tube.,2
+399,"Number 10 hyperkalemia, resolved.",2
+400,Potassium is 4.,3
+401,8,7
+402,Plan it is felt that the patient will benefit from continued subacute rehabilitation with physical therapy to upgrade mobility and occupational therapy to upgrade activities of daily living.,6
+403,The Physician thank you very much.,7
+404,"History is as follows the patient is a 66-year-old female who is well known to our service from an inpatient stay at Hospital Name from Month DD, YYYY until Month DD, YYYY.",8
+405,She originally woke up in the morning with nausea and vomiting and left-sided weakness.,1
+406,She was she had tried to get out of bed but was unable to.,1
+407,She was ended up on the floor for greater than 24 hours.,1
+408,She was seen by EMS and brought to the hospital.,1
+409,MRI revealed an acute versus subacute infarct in the left posterior inferior cerebellar artery.,1
+410,She was not a candidate for TPA.,1
+411,"She was stabilized and transferred to Hospital Name on Month DD, YYYY.",1
+412,"During her rehab hospitalization, she underwent physical therapy to upgrade mobility and occupational therapy to upgrade activities of daily living, speech therapy for cognitive and language rehabilitation.",2
+413,She has now been stabilized and is being discharged to she is being admitted to Hospital Name for subacute rehabilitation.,3
+414,"Past medical history is significant for diabetes mellitus type 2 with neurologic manifestation, diabetic neuropathy, leukemoid reaction, nicotine or tobacco addiction and hyperlipidemia.",2
+415,Past surgical history none.,2
+416,Social history He lives she lives in an apartment in city alone.,4
+417,I am unsure who her family doctor is.,7
+418,Allergies no known drug allergies.,2
+419,"Medications on admission include aspirin 81 mg q. day, clonidine 0.",3
+420,"1 mg q. day, Benadryl q.6 hours as needed for itching, Flonase nasal spray two sprays each nostril q. day, Anusol suppositories as needed twice daily, Levemir insulin 70 units q.h.s., sliding scale NovoLog, acidophilus probiotic capsule twice daily, lisinopril 5 mg q. day, Claritin 10 mg q. day, melatonin 6 mg q.h.s., metoprolol 25 mg b.i.d., nitroglycerin 0.",6
+421,"4 mg as needed for chest pain, Sudafed 60 mg q. 4 hours as needed, Zocor 20 mg q.h.s. Review of systems she complains of left-sided weakness and difficulty to swallow.",6
+422,"She denies any nausea, vomiting, diarrhea, constipation, wheezing, shortness of breath, cough, chest pain, abdominal pain, back pain, neck pain, headaches, dizziness, fevers nor chills.",2
+423,She denies any dysuria the remainder of the 14 point review of systems is essentially negative.,2
+424,On exam overweight female in no acute distress.,3
+425,Vital signs are stable.,3
+426,"Blood pressure is 128/73, temperature 98.",3
+427,"2, heart rate 99.",3
+428,HEENT extraocular motions intact.,3
+429,Mucous membranes moist without lesions.,3
+430,"Lungs clear to auscultation without rhonchi, crepitus, or wheezing.",3
+431,Heart regular rate and rhythm without murmurs or extra sounds.,3
+432,"Abdomen protuberant, soft, nontender, no organomegaly.",3
+433,Extremities with trace edema in the lower extremities.,3
+434,Spine without paraspinal tenderness.,3
+435,Neurologic mild left hemiparesis noted with ataxia.,3
+436,Decreased fine motor control noted in the left hand.,3
+437,Decreased sensation in a stocking distribution is noted.,3
+438,"Labs sodium 140, potassium 4.",3
+439,"2, chloride 102, CO2 29, glucose 156, BUN 11, creatinine 0.",3
+440,"8, WBC 13.",3
+441,"8, hemoglobin 14.",3
+442,"3, hematocrit 42.",3
+443,4,3
+444,Functional status is as follows left posterior and inferior cerebellar cerebrovascular accident.,3
+445,Number two mild or left-sided dysmetria with decreased fine motor control.,3
+446,Number three mild left hemiparesis.,3
+447,Number four diabetes mellitus type 2 with neurologic manifestation.,3
+448,Number five diabetic neuropathy managed without neuropathic medication.,3
+449,Number six hyperlipidemia managed with diet and Zocor.,3
+450,Number seven morbid obesity or obesity mild obesity.,3
+451,BMI is 26 kg/m2.,3
+452,Benefits of weight loss discussed with patient.,7
+453,Dietitian is following with it.,7
+454,Number eight dysphagia managed with puree diet and nectar thick liquids followed by speech therapy.,6
+455,Impaired mobility.,3
+456,Ambulating 15 feet with minimal-to-moderate assist with a rolling walker.,6
+457,Plan it is felt that the patient will benefit from continued subacute rehabilitation with physical therapy to upgrade mobility and occupational therapy to upgrade activities of daily living.,6
+458,The Physician thank you.,7
+459,Medical status the patient was seen and examined on rounds in the patient’s room.,3
+460,She complains of she continues to make progress in all therapeutic areas.,1
+461,She is tolerating three hour physical therapy and occupational therapy.,3
+462,Review of systems she complains of left hip pain.,1
+463,She voices no other new complaints.,1
+464,Remainder of the 14-point review of systems is essentially negative.,3
+465,On exam pleasant female in no acute distress.,8
+466,Vital signs are stable.,3
+467,"Blood pressure 130/63, temperature 98.",3
+468,"4, heart rate 92.",3
+469,HEENT extraocular motions intact.,3
+470,Mucous membranes moist without lesions.,3
+471,Neck supple without lymphadenopathy.,3
+472,Lungs clear to auscultation without rhonchi crepitus nor wheezing.,3
+473,Heart regular rate and rhythm without murmurs.,3
+474,No extra sounds.,3
+475,"Abdomen soft, nontender, no organomegaly.",3
+476,Extremities extremities with trace edema in the lower extremities with venostasis changes noted.,3
+477,Spine minimal lumbosacral paraspinal tenderness.,3
+478,Neurologic giveway weakness noted at the hips and shoulders with 4+/5 strength noted.,3
+479,Decreased fine motor control noted in the left hand.,3
+480,Decreased sensation noted in the stocking distribution.,3
+481,Labs WBC 6.,3
+482,"1, hemoglobin 8.",3
+483,"4, hematocrit 25.",3
+484,"6, sodium 140, potassium 3.",3
+485,"8, chloride 25 or chloride 105, CO2 25, glucose 101, BUN 18, creatinine 0.",3
+486,8,3
+487,Assessment number one left impacted femoral neck fracture status post left bipolar hip hemiarthroplasty.,3
+488,Number two right CVA with late effects of left hemiparesis.,3
+489,Balance deficits and frequent falls.,3
+490,Number three lumbar stenosis with spondylosis and lower extremity myelopathy.,3
+491,Number four hypertension managed with multidrug regimen.,6
+492,Number six hyperlipidemia managed with diet and statin.,6
+493,Number six cardiovascular prophylaxis managed with aspirin and Plavix.,6
+494,Number seven idiopathic peripheral neuropathy managed with Neurontin.,6
+495,Number eight urinary retention managed with Flomax and Urecholine.,6
+496,Number nine gastroesophageal reflux disease managed with Protonix.,6
+497,Number 10 mild obesity.,3
+498,BMI is 28.,3
+499,7 kg/m2.,3
+500,Benefits of weight loss discussed with the patient.,6
+501,Dietitian is following with this.,6
+502,Number 11 DVT prophylaxis managed with Xarelto DVT prophylaxis completed with Xarelto.,6
+503,Number 12 depression and anxiety disorder managed with anxiolytics as needed.,6
+504,Consider an antidepressant as necessary.,6
+505,Plan it is felt the patient will benefit from continued inpatient rehabilitation with or inpatient subacute rehabilitation with physical therapy to upgrade mobility and occupational therapy to upgrade activities of daily living.,6
+506,The Physician thank you very much.,7
+507,Medical status the patient was seen and examined on rounds.,2
+508,He continues to make progress in all therapeutic areas.,3
+509,He is tolerating physical therapy and occupational therapy and speech therapy.,3
+510,Review of systems he complains of of weakness and difficulty with gait.,3
+511,He voices no other new complaints.,3
+512,Remainder of the 14-point review of systems is essentially negative.,3
+513,On exam well-developed male in no acute distress.,8
+514,Vital signs are stable.,3
+515,"Blood pressure 121/66, temperature 98.",3
+516,"2, heart rate 86.",3
+517,HEENT extraocular motions intact.,3
+518,Mucous membranes moist without lesions.,3
+519,Neck supple without lymphadenopathy.,3
+520,"Lungs clear to auscultation without rhonchi, crepitus or wheezing.",3
+521,Heart regular rate and rhythm without murmurs or extra sounds.,3
+522,"Abdomen soft, nontender.",3
+523,No organomegaly.,3
+524,Extremities with trace edema.,3
+525,Spine without paraspinal tenderness.,3
+526,Neurologic alert and cooperative.,3
+527,Some give way weakness noted at the hips and shoulders with 4+/5 strength noted.,3
+528,"Labs sodium 137, potassium 4.",3
+529,"1, chloride 106, CO2 24, glucose 70, BUN 14, creatinine 0.",3
+530,88,3
+531,Functional status transfers contact guard assist.,3
+532,Ambulation contact guard assist for 200 feet with a rolling walker.,6
+533,Assessment diffuse myopathy with impaired mobility and decline in functional status.,3
+534,Number two mild Alzheimer’s dementia managed with Exelon patch.,3
+535,Number three rheumatoid arthritis managed with daily prednisone.,3
+536,Number four chronic low back pain managed with tramadol.,3
+537,Number five gastroesophageal reflux disease managed with Protonix.,3
+538,Number six hypertension managed with multidrug regimen.,3
+539,Number seven urinary incontinence much improved.,3
+540,Number eight depression managed with Lexapro.,3
+541,Plan it is felt the patient will benefit from continued subacute rehabilitation with physical therapy to upgrade mobility and occupational therapy to upgrade activities of daily living the patient thank you very much.,6
+542,Medical status patient was seen and examined on rounds in the patient’s room.,7
+543,He has had a PEG tube placed since last visit secondary to dysphagia.,2
+544,He continues to make slow but steady progress in all therapeutic areas.,3
+545,Review of systems he complains of weakness and difficulty with swallowing.,1
+546,He believes there are no other new complaints.,1
+547,Remainder of the 14-point review of systems essentially negative.,3
+548,On exam cachectic-appearing male in no acute distress.,8
+549,Vital signs are stable.,3
+550,"Blood pressure is 115/59, temperature 98.",3
+551,"4, heart rate 88.",3
+552,HEENT extraocular motions are intact.,3
+553,Mucous membranes moist without lesions.,3
+554,Neck supple without lymphadenopathy.,3
+555,"Lungs clear to auscultation without rhonchi, crepitus or wheezing.",3
+556,Heart regular rate and rhythm without murmurs or extra nor extra sounds.,3
+557,"Abdomen soft, nontender.",3
+558,No organomegaly.,3
+559,Extremities 1+ edema in lower extremity with venous stasis changes noted.,3
+560,Spine without paraspinal muscle tenderness noted.,3
+561,"Neurologic alert and cooperative, moves all extremities.",3
+562,He is somewhat disoriented.,3
+563,"Labs sodium 141, potassium 4.",3
+564,"9, chloride 105, CO2 24 CO2 28, glucose 148, BUN 60, creatinine 1.",3
+565,67,3
+566,No other new labs noted.,3
+567,Prior labs reviewed.,2
+568,Assessment number one traumatic brain injury with loss of consciousness for less than 30 minutes.,3
+569,Number two post-concussive syndrome.,3
+570,Speech therapy is following for cognitive and language therapy.,3
+571,Number three diabetes mellitus type 2 with neurologic manifestations.,3
+572,The Physician is following with this.,6
+573,"Number four diabetic neuropathy, managed without neuropathic medication.",3
+574,"Number five hypertension, Lasix [skip] held oh put hypertension managed with multidrug regimen.",3
+575,Number six cachexia with failure to thrive.,3
+576,P E G tube has been placed.,3
+577,"Number seven asthmatic bronchitis, managed with inhaled steroids and bronchodilators.",3
+578,Number eight impaired cognition.,3
+579,Speech therapy following for cognitive rehabilitation.,3
+580,"Number nine acute renal insufficiency, creatinine is 1.",3
+581,67,3
+582,Patient is followed by the Renal Service.,3
+583,"Number 10 hyperkalemia, now resolved.",3
+584,Number eight dysphagia oh number next dysphagia.,3
+585,Status post P E G tube placement.,6
+586,Speech therapy is following for swallow therapy.,6
+587,Plan it is felt that the patient will benefit from continued subacute rehabilitation with physical therapy to upgrade mobility and occupational therapy to upgrade activities of daily living.,6
+588,The Physician thank you very much.,7
+589,"Patient required thoracentesis, ultimately was able to be extubated.",6
+590,"Once stabilized, he was transferred to Barlow for further management.",7
+591,"At Barlow, he has been relatively stable with overall gradual decrease in any supplemental oxygen requirement.",7
+592,"Patient has been noted to have gradual drop in hemoglobin from baseline close to 8, down to, from baseline around 9 down to 8.",3
+593,"Per nursing staff, there has been no evidence of hematochezia or melena.",3
+594,Patient himself is unable to provide any history because of history of multiple strokes.,7
+595,All history is obtained from the wife at bedside and from prior medical records.,7
+596,"Per wife, patient has had a colonoscopy before, last one being may be around five years ago.",2
+597,"Past medical, surgical history, number one history of CVA, status post embolic stroke in 2013, followed by subsequent stroke in 3:01:100 to 3:02:100 Month DD, YYYY.",2
+598,"Next number, history of aortic stenosis, status post aortic valve replacement on 2011.",2
+599,"Next number, psick sinus syndrome with symptomatic bradycardia, status post pacemaker placement in 2016, seizure disorder, hypertension, hyperlipidemia, type 2 diabetes, dysphagia, status post gastrostomy tube placement, benign prostatic hypertrophy.",2
+600,"Review of systems, unable to obtain.",7
+601,Patient with multiple strokes and encephalopathy.,1
+602,"Social history, no history of tobacco, alcohol, or drugs.",4
+603,"Family history, no history of lung disease.",5
+604,"Allergies, iodine.",1
+605,"Medications, insulin, atorvastatin, digoxin, diltiazem, Epogen, ceftriaxone, midodrine, Synthroid, metoprolol, acetylcysteine, Keppra, Bumex, dulcolax, vitamin D, calcitriol, Eliquis, albuterol, Atrovent, senna q.h.s. On physical exam, transcriptionist please note date of consultation was 4:11:700 to 4:13:100 Month DD, YYYY.",6
+606,"Patient has blood pressure of 110/55, pulse is 98, temp is 97.",3
+607,"3, respiratory rate is 18, O2 sat 97% on room air.",3
+608,"Generally, patient is chronically ill-appearing elderly male, no acute distress.",8
+609,"HEENT, head is normocephalic, atraumatic.",3
+610,Pupils are very sluggish.,3
+611,Neck is supple.,3
+612,No masses.,3
+613,"Lungs, coarse breath sounds bilaterally.",3
+614,Heart has regular rate.,3
+615,"Abdomen is soft, nontender, nondistended.",3
+616,Good bowel sounds.,3
+617,"Extremities, no cyanosis or clubbing.",3
+618,1+ pulses.,3
+619,"Skin, no rash or lesion appreciated.",3
+620,"Neurologic, the patient follows simple commands, but is overall very weak, mostly able to slightly moving left upper extremity.",3
+621,"Laboratory, patient has a white count of 10, hemoglobin is 8, platelet count is 283.",3
+622,INR is 1.,3
+623,"8, PTT is 58.",3
+624,3,7
+625,Stool occult was positive on 2/15.,3
+626,Patient has a creatinine of 3.,3
+627,"9, BUN is 109, calcium is 8.",3
+628,"5, phosphorus 4.",3
+629,"4, and mag is 2.",3
+630,7,7
+631,"Radiology, chest x-ray done on 6:13:500 to 6:14:750 Month DD, YYYY shows near total resolution of left lung base pneumonia, moderate right-sided pleural effusion.",3
+632,"Impression, recommendations, patient is a 85-year-old white male with history of multiple strokes with associated dysphagia, being upon the gastrostomy tube for nutrition, with end-stage renal disease, on hemodialysis, noted to have occult GI bleed in the setting of anticoagulation with Eliquis.",8
+633,Patient has multiple risk factors for developing underlying gastrointestinal bleed including use of Eliquis and and platelet dysfunction associated with uremia.,1
+634,I discussed extensively plan of care with patient's family including patient son over the phone.,7
+635,"Considering patient's multiple, considering patient advanced age, multiple comorbidity, and the fact that hemoglobin has been relatively stable throughout the hospital course with no evidence of overt bleeding, recommend conservative management including starting patient on Protonix b.i.d. and monitoring hemoglobin closely.",6
+636,"Alternative will be to do an upper endoscopy to rule out peptic ulcer disease and/or malignancy [skip] try to obtain result of recent endoscopy that was done apparently at UCLA at the point of gastrostomy tube placement about three, four months ago.",6
+637,"Again, his hemoglobin is relatively stable with a small drop, I think it’s reasonable to continue with Eliquis for now.",6
+638,"In case of development of overt bleeding or worsening anemia, we will rediscuss the issue of possible endoscopy or perhaps just stopping Eliquis.",6
+639,"Regarding history of respiratory insufficiency, it has greatly improved after being treated with antibiotics.",2
+640,Continue with bronchodilators as needed per Nephrology recommendations.,6
+641,"Regarding history of AFib, this appears to be well, rate appears to be fairly well controlled at this point on digoxin.",2
+642,Thank you for this consultation.,7
+643,Follow patient with you.,7
+644,End of dictation.,7
+645,"first section is PC please copy the pc section from my prior clinic visit note on date of service month dd, yyyy next section is chief complaint The patient is a 59-year-old woman with a breast cancer here today for followup clinic visit.",7
+646,"Next section interval history last clinic visit was on month dd, yyyy.",2
+647,"The patient reports she is starting her adjuvant radiation on month dd, yyyy.",2
+648,Continues to have occasional hot flashes.,1
+649,Continues to have chronic discomfort and paresthesia symptoms at left hand which have been which have been attributed to her neck fusion and her chronic symptoms.,1
+650,Continues to have mild fatigue although very active and consistent with capital letter ECOG performance score of zero.,1
+651,"Denies decreased appetite, weight loss, nausea, diarrhea, constipation, fevers, chills, night sweats, bleeding, bruising, and rash and headache.",1
+652,Next section is past medical history number one.,7
+653,Breast cancer.,2
+654,"Screaming mammogram on month dd, yyyy noted a right [skip] right breast abnormality, which was also confirmed by ultrasound.",2
+655,"On month dd, yyyy, she underwent a biopsy showing a invasive lobular carcinoma, ER positive, PR positive, and HER-2 negative.",2
+656,"The patient then underwent a lumpectomy and sentinel lymph node biopsy on month dd, yyyy, which identified an invasive lobular carcinoma, 1.",2
+657,"5 cm, positive capital LCIS, no lymphovascular invasion, grade 2, ER positive 90%, PR positive 50%, HER-2 negative (IHC 1+), and Ki-67 of 15%, negative margins, Oncotype DX of 21, disease in 0 of 4 sentinel lymph nodes, staging pT10pN0 {start parenthesis} stage IA {end parenthesis}.",3
+658,"Planning adjuvant radiation and adjuvant Arimidex{period}considering the high hormone receptor positivity, low Ki-67, small size, and the intermediate risk Oncotype Dx {start parenthesis} DX score of 21 with intermediate range lying from 18 to 32 {end parenthesis}, the patient's benefit of chemotherapy was minimal and was outweighed by risk of toxicities, so did not pursue a chemotherapy.",6
+659,Plan to pursue capital letter [skip] pursue capital letter DEXA scan in addition to referral to lymphedema clinic in the future.,6
+660,two.,7
+661,Hypothyroidism three.,3
+662,Neuropathy.,7
+663,History of thrombcytosis.,2
+664,"Per the patient did have history of platelets in the 500s, although more recently was told it was in the lower 400s {start parenthesis} this was information collected at her initial consultation visit on month dd, yyyy {end parenthesis}.",2
+665,The patient was initiated on aspirin in the past for this.,2
+666,"with platelet count on month dd, yyyy of 494.",2
+667,"Next section is medications please copy medication section from my prior clinic visit note on date of service month dd, yyyy next section allergies no known drug allergies next section social history please copy the social history section from my prior clinic visit note on date of service month dd, yyyy next section review of systems all systems were reviewed and were negative except as listed above in the interval history section next section performance status capital letter ECOG performance score of zero next section physical examination vital signs weight of 93 kg, pulse 90, blood pressure 126/74, temperature 97.",7
+668,3 general exam comfortable appearing.,3
+669,No acute distress.,3
+670,Alert.,3
+671,Answering questions appropriately.,3
+672,HEENT exam no scleral icterus extremities no edema neuro exam nonfocal skin no rash or bruising breasts exam deferred exam today.,3
+673,Plan to pursue complete breast exam in next clinic visit in seven weeks.,6
+674,"next section labs new line labs on month dd, yyyy new line sodium 134, potassium 4.",3
+675,"1, chloride 99, bicarb 28, glucose 83, BUN of 14, creatinine 0.",3
+676,"94, AST 16, alk phos 53, ALT 17, total protein 6.",3
+677,"9, albumin 4.",3
+678,"5, total bilirubin 0.",3
+679,"7, calcium 9.",3
+680,5 new line white blood cell count 5.,3
+681,"7, hemoglobin 14.",3
+682,"6, hematocrit 42.",3
+683,"7, platelet count of 494 next section is assessment and plan The patient is a 59-year-old postmenopausal woman with a stage IA right breast invasive lobular carcinoma, ER positive, PR positive, HER-2 negative, status post lumpectomy and sentinel lymph node biopsy.",3
+684,number one.,7
+685,Breast cancer.,3
+686,"Plan is to initiate adjuvant radiation on month dd, yyyy.",6
+687,We will have the patient return for clinic visit after radiation to initiate Arimidex at that time.,6
+688,"At that time, we will also pursue complete breast exam and order DEXA scan and ensure she is on calcium, vitamin D and discuss referral to lymphedema clinic.",6
+689,"Additionally, we will initiate Arimidex at that time.",6
+690,"Plan next screening mammogram on month dd, yyyy.",6
+691,two.,7
+692,Hot flashes.,1
+693,"Attributing to post menopausal status, which started [skip] which started in approximately 2012.",1
+694,Currently having two to three hot flashes per week.,1
+695,Arimidex potentially worsen this in the future when started.,6
+696,We will monitor this.,7
+697,sorry should say we will to continue this reassess this at future clinic visit.,7
+698,Three.,7
+699,Fatigue.,1
+700,Notably the patient has a very strenuous nature of job consistent with capital ECOG performance score of zero.,3
+701,We will continue to reassess at future clinic visits.,7
+702,four.,7
+703,Pain.,7
+704,Secondary to osteoarthritis at neck which causes paresthesias especially at the left hand for which the patient is currently on gabapentin.,3
+705,We will continue to reassess at future clinic visits.,7
+706,five.,7
+707,History of thrombocytosis.,2
+708,"Most recent CBC on month dd, yyyy did show elevated platelet count of 494.",2
+709,We will just continue to monitor this for now.,6
+710,after the patient undergoes radiation and let us say it again several months after completing radiation if platelet count is still elevated we will pursue further evaluation.,6
+711,next section is followup new line clinic visit in seven weeks End of dictation [skip] 08.,7
+712,"The physician dictating on the patient date is Month DD, YYYY medical record XXX-XXX-XXX.",7
+713,"History is as follows patient is a is a 64-year-old African American male who is well known to our service from an inpatient stay at HealthSouth City View from Month DD, YYYY until Month DD, YYYY.",8
+714,Patient was originally admitted to Texas South Harris Methodist Hospital in XXXXX following a basketball injury right hip I’m sorry he injured his knees playing basketball with his daughter and was admitted to Texas South Harris Methodist Hospital in XXXXX and underwent bilateral patellar tendon rupture repair by the physician.,2
+715,"He was admitted to HealthSouth City View for comprehensive inpatient rehabilitation on Month DD, YYYY.",2
+716,"During his rehab hospitalization, he underwent physical therapy to upgrade mobility and occupational therapy to upgrade activities of daily living.",2
+717,"He originally was discharged from Texas South Harris Methodist Hospital on Month DD and admitted to City View Care Center, but left against medical advice and presented back to the emergency department.",2
+718,He has now he was he has now been stabilized and is being admitted to Mira Vista Court for subacute rehabilitation.,2
+719,"Oh state that add into the during his rehab hospitalization, the patient was followed by the physician from the Pulmonary Critical Care Services and the physician from the Internal Medicine Service.",2
+720,Patient was seen by the physician from the Urology Service secondary to bilateral testicular hydroceles.,2
+721,Workup included a CT scan of the abdomen and pelvis which revealed an adrenal mass.,2
+722,Workup is in progress.,7
+723,The physician will be following with us at Mira Vista Court.,6
+724,Past medical history is significant for lumbar stenosis with chronic low back pain.,2
+725,Past surgical history appendectomy and lumbar discectomy with interbody fusion.,2
+726,Allergies Morphine.,2
+727,"Medications on admission; Norco as needed for pain, Flexeril as needed for muscle spasm, Norco as needed for pain and Xanax as needed for anxiety.",6
+728,The Xarelto 10 mg q. p.m. and Xanax as needed for anxiety.,6
+729,Review of systems he complains of bilateral knee pain and testicular pain.,1
+730,"He denies any nausea, vomiting, diarrhea, constipation, wheezing, shortness of breath, cough, chest pain, abdominal pain, neck pain, headaches or dizziness, fever, or chills.",3
+731,He denies any dysuria.,3
+732,The remainder of the 14-point review of system is essentially negative.,3
+733,Family history father is alive at age 70 and healthy.,5
+734,Mother is alive in her late 60s and healthy.,5
+735,"No diabetes, heart disease or cancer in the immediate family.",5
+736,Social history he lives in XXXXX.,4
+737,His two daughters live with him in a single-level home.,4
+738,There is one step to enter and two steps to get up to the bathroom.,4
+739,He does not have a family physician.,4
+740,"On exam, well developed male in no acute distress.",8
+741,Vital signs are stable.,3
+742,"Blood pressure is blood pressure is 140/83, temperature 97.",3
+743,"3, heart rate 89.",3
+744,HEENT extraocular motions intact.,3
+745,Mucous membranes moist without lesions.,3
+746,Neck supple without lymphadenopathy.,3
+747,Lungs clear to auscultation without rhonchi or crepitus.,3
+748,No wheezing.,3
+749,Heart regular rate and rhythm without murmurs or extra sounds.,3
+750,"Abdomen protuberant, soft, nontender.",3
+751,No organomegaly.,3
+752,Extremities with trace edema.,3
+753,Knee incisions are well opposed without erythema or any drainage.,3
+754,Spine without paraspinal tenderness.,3
+755,Neurologic moves all extremities without focal weakness.,3
+756,Labs WBC 6.,3
+757,"1, hemoglobin 13.",3
+758,"1, hematocrit 39.",3
+759,9,7
+760,"Sodium 138, potassium 3.",3
+761,"9, chloride 99, CO2 25, glucose 88, BUN 15, creatinine 1.",3
+762,0,7
+763,"Functional status feeding, grooming, bathing, dressing, and toileting are modified to independent transfer supervision.",3
+764,The patient is nonambulatory.,3
+765,"Assessment number one assessment number one bilateral patellar tendon rupture, status post bilateral tendon bilateral patellar tendon surgical repair.",3
+766,"Number two chronic kidney disease stage two, creatinine 1.",3
+767,0,7
+768,We will avoid nephrotoxic agents.,6
+769,"Number three morbid obesity, BMI is 37 kg/m2, benefits of weight loss discussed with the patient.",3
+770,Dietician will follow with us.,6
+771,Number four DVT prophylaxis managed with Xarelto.,6
+772,Number five testicular hydrocele followed by the patient from the Urology Service.,6
+773,Number six adrenal mass noted on pelvic scan.,6
+774,Workup is in progress.,7
+775,Abdominal MRI is pending.,7
+776,Plan I felt that the patient would benefit from continued subacute rehabilitation with physical therapy to upgrade mobility and occupational therapy to upgrade activities of daily living the physician thank you very much.,6
+777,"The physician dictating on the patient date Month DD, YYYY medical record XXX-XXX-XXX.",7
+778,Medical status patient was seen and examined on rounds.,7
+779,She continues to make progress in all therapeutic areas.,2
+780,She is tolerating physical therapy and occupational therapy.,2
+781,Review of systems she complains of back pain.,1
+782,She voices no other new complaints.,1
+783,Remainder of the fourteen-point review of systems essentially are negative.,1
+784,"On exam frail elderly white female, in no acute distress.",8
+785,Vital signs are stable.,3
+786,"Blood pressure is blood pressure is 141/83, temperature 97.",3
+787,"2, heart rate 82.",3
+788,HEENT extraocular motions are intact.,3
+789,Mucous membranes are moist without lesions.,3
+790,Neck supple without lymphadenopathy.,3
+791,Lungs clear to auscultation without rhonchi or crepitus.,3
+792,No wheezing.,3
+793,Heart regular rate and rhythm without murmurs or extra sounds.,3
+794,Abdomen soft nontender.,3
+795,No organomegaly.,3
+796,Extremities with trace edema in the lower extremities.,3
+797,Spine minimal lumbosacral paraspinal tenderness noted.,3
+798,Diffuse neurologic diffuse weakness at the hips and knees with give way weakness of 4/5 muscle strength noted.,3
+799,Labs labs pro-time 21.,3
+800,"6, INR 1.",3
+801,9,7
+802,"Sodium 134, potassium 4.",3
+803,"2, chloride 95, CO2 32, glucose 88, BUN 11, creatinine 0.",3
+804,66,7
+805,WBC 7.,3
+806,"8, hemoglobin 11.",3
+807,"3, hematocrit 33.",3
+808,0,7
+809,Assessment number one T12 compression fracture with retropulsion and fragments managed with Miacalcin nasal spray and Os-Cal D. Number two thoracolumbar spondylosis with myelopathy and lower extremity weakness.,3
+810,Number three a number three paroxysmal atrial fibrillation rate controlled on Coreg and digoxin.,3
+811,"Number four chronic anticoagulation secondary to atrial fibrillation, managed with Coumadin.",3
+812,INR is 1.,3
+813,9,7
+814,"Number five hypertension, managed with multidrug regimen.",3
+815,"Number six hypercholesterolemia, managed with statin.",3
+816,"Number seven coronary artery disease with history of myocardial infarct, managed with aspirin, statin and Coumadin therapy.",3
+817,Number nine diffuse osteoarthritis number sorry number eight diffuse osteoarthritis.,3
+818,Number nine cataracts status post lens replacements.,3
+819,"Number ten hyponatremia, much improved.",3
+820,Sodium is now 134.,3
+821,Plan I felt that the patient will benefit from continued inpatient rehabilitation with physical therapy to upgrade mobility and occupational therapy to upgrade activities of daily living the physician thank you very much.,6
+822,"The physician dictating on the patient date Month DD, YYYY medical record XXX-XXX-XXX.",7
+823,Medical status patient was seen and examined on rounds.,4
+824,"She is making slow, but steady progress in all therapeutic areas.",3
+825,"She is tolerating physical therapy, occupational therapy and speech therapy.",3
+826,Review of systems she complains of tremor and weakness.,1
+827,She voices no other new complaints.,1
+828,Remainder of the 14-point review of systems essentially are negative.,1
+829,On exam pleasant female in no acute distress.,8
+830,Vital signs are stable.,3
+831,"Blood pressure is 132/67, temperature 98.",3
+832,"2, heart rate 82.",3
+833,HEENT extraocular motions intact.,3
+834,Mucous membranes moist without lesions.,3
+835,Neck supple without lymphadenopathy.,3
+836,Lungs clear to auscultation without rhonchi or crepitus.,3
+837,No wheezing.,3
+838,Heart regular rate and rhythm without murmurs.,3
+839,No extra sounds.,3
+840,"Abdomen soft, nontender.",3
+841,No organomegaly.,3
+842,"P E G site is clean without erythema, no drainage.",3
+843,Extremities with trace edema in the lower extremities.,3
+844,Spine without paraspinal muscle tenderness.,3
+845,Neurologic severe resting tremor noted.,3
+846,Cogwheeling noted on range of motion of the upper extremities.,3
+847,Decreased sensation in stocking distribution.,3
+848,"Labs sodium 144, potassium 3.",3
+849,"4, chloride 107, CO2 of 25, glucose 98, BUN 34, creatinine 0.",3
+850,"6, glucose 98, WBC 6.",3
+851,"0, hemoglobin 12.",3
+852,"5, hematocrit 36.",3
+853,9,7
+854,"Assessment Parkinson’s disease with exacerbation and decline in functional status, managed with Sinemet 75/300 four times daily.",3
+855,We have increased this to five times daily per the physician from Neurology Services the physician.,3
+856,"Number two hypertension, managed with multidrug regimen.",3
+857,Number three diabetes mellitus type 2 with neurologic manifestations.,3
+858,"Number four diabetic neuropathy, managed with Neurontin.",3
+859,"Number five hyperlipidemia, managed with statin.",3
+860,Number six history of cerebrovascular accident with late effects of dysphagia.,3
+861,"Number seven dysphagia, status post P E G tube placement, managed with a ground diet and nectar thick liquids with P E G tube supplementations.",3
+862,"Number eight depression and anxiety disorder, managed with Lexapro and anxiolytics as needed.",3
+863,"Plan it is felt that the patient will benefit from continued inpatient rehabilitation with physical therapy to upgrade mobility, occupational therapy to upgrade activities of daily living and speech therapy for cognitive and swallow rehabilitation the patient thank you very much.",6
+864,Medical status patient was seen and examined on rounds.,4
+865,He continues to make progress in all therapeutic areas.,4
+866,He is tolerating three hours of therapy daily no he is tolerating physical therapy and occupational therapy.,4
+867,Review of systems he complains of left shoulder pain.,1
+868,He voices no other new complains.,1
+869,Remainder of the 14-point review of system is essentially negative.,1
+870,On exam pleasant male in no acute distress.,8
+871,Vital signs are stable.,3
+872,"Blood pressure 135/67, temperature 98.",3
+873,"4, heart rate 72.",3
+874,HEENT extraocular motions are intact.,3
+875,Mucous membranes are moist without lesions.,3
+876,Neck supple without lymphadenopathy.,3
+877,"Lungs clear to auscultation without rhonchi, crepitus, or wheezing.",3
+878,Heart regular rate and rhythm without murmurs.,3
+879,No extra sounds.,3
+880,"Abdomen soft, nontender.",3
+881,No organomegaly.,3
+882,Extremities trace edema in the lower extremities.,3
+883,Spine without paraspinal tenderness.,3
+884,Neurologic alert and cooperative.,3
+885,No focal motor deficits noted.,3
+886,Antalgic weakness noted above the left shoulder.,3
+887,"Assessment no I am sorry labs sodium 144, potassium 4.",3
+888,"0, chloride 108, CO2 32, glucose 142, BUN 10, creatinine 0.",3
+889,"81, WBC 7.",3
+890,"2, hemoglobin 11.",3
+891,"5, hematocrit 34.",3
+892,5,7
+893,"Assessment number one left shoulder dislocation with humeral intact humeral head fracture, treated conservatively with Codman exercises and left shoulder sling.",3
+894,"Number two left shoulder pain secondary to fracture, managed with lidocaine patch and Norco as needed.",3
+895,Number three cardiovascular prophylaxis managed with Plavix and statin.,3
+896,Number four coronary artery disease with history of coronary artery bypass graft times three vessels.,3
+897,"Number five hypertension, managed with multidrug regimen.",3
+898,"Number six hyperlipidemia, managed with diet and statin.",3
+899,Number seven diabetes mellitus type 2 with neurologic manifestation.,3
+900,"Number eight diabetic neuropathy, managed without neuropathic medication.",3
+901,"Number nine DVT prophylaxis, completed with Lovenox.",3
+902,Plan I felt that the patient will benefit from continued subacute rehabilitation with physical therapy to upgrade mobility and occupational therapy to upgrade activities of daily living.,6
+903,Patient should be ready for discharge to home soon the physician thank you very much.,7
